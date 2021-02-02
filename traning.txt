@@ -2,3 +2,4 @@ testtest
 
 git add
 git commit
+git diff
